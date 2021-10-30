@@ -123,6 +123,6 @@ int main()
         shm_unlink("table");
 
         //Print statement indicating producer cleanup has finished
-        printf("Producer2 cleaned up!");
+        printf("Producer cleaned up!\n");
         return 0;
 }
