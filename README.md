@@ -12,7 +12,16 @@ Semaphores are used to prevent overhead/dangerous production or consumption, inc
 
 # Setup
 Compile using Linux
-    such as with Ubuntu 20.04 on VirtualBox in its terminal
+* e.g.
+    * install VirtualBox
+    * install Ubuntu 20.04 on VirtualBox
+    * install Virtual Studio Code on Ubuntu
+
+Additional prerequisties:
+* gcc
+``` 
+sudo apt-get install gcc 
+```
 
 Copy this repository's link for this program
 
