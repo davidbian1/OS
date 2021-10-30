@@ -104,7 +104,7 @@ int main()
                         //Print statement to indicate consumption has occurred
                         //and the updated status of the map (number of
                         //elements remaining)
-                printf("Item consumed, there are now %d item(s) remaining in the table\n", *table);
+                printf("Item consumed, there are now %d item(s) remaining in the table.\n", *table);
 
                         //Updating mutex semaphore to reflect the exiting of
                         //the critical section (wait == ++)
